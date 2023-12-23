@@ -2,7 +2,7 @@
 **`` I'm a game developer (Unity);``**
 
 I started my journey in `2020` in the summer. 
-I wanted to make games ane become a great Game Developer🔋
+I wanted to make games ane become a great Game Developer🔋 \n
 My dream: "[click][rick]".
 
 

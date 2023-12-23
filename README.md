@@ -6,6 +6,20 @@ I wanted to make games ane become a great Game Developer🔋 /n
 My dream: "[click][rick]".
 
 
+
+#💪Facts
+- I like sport very much,
+- I'm from Ukrain,
+- I've been learing English for 2 years,
+- I'm looking for a girl write now
+
+
+
+
+
+
+
+
 [rick]: https://youtube.com/fknight
 
 <!--

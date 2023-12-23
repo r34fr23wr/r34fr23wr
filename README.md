@@ -1,4 +1,9 @@
 # 🦖Dinooyx
+**`` I'm a game developer (Unity);``**
+
+I started my journey in `2020` in the summer. 
+I wanted to make games ane become a great Game Developer🔋
+My dream: [click][https://www.youtube.com/watch?v=dQw4w9WgXcQ].
 
 <!--
 **r34fr23wr/r34fr23wr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

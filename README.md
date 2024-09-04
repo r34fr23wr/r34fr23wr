@@ -1,8 +1,8 @@
 # 🦖Dinooyx
 **`` I'm a game developer (Unity);``**
 
-I started my journey in `2020` in the summer. 
-I wanted to make games ane become a great Game Developer🔋                       
+I started my journey in `2023` in winter. 
+I wanted to make games and become a great Game Developer🔋                       
 My dream: "[click][rick]".
 
 
